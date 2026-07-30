@@ -34,7 +34,7 @@ tikv-jemallocator = "0.5.4"
 
 
 [build-dependencies]
-rand="0.8.5"
+rand="0.10.2"
 cc = "1.0"
 java-locator="0.1"
 #sha2 = "0.10"
